@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivos locales del proyecto
+usuarios.db
+cookies.txt
+
+# Visual Studio Code
+.vscode/
